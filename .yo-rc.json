@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ibcs.hrm"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "hr_managment_system",
+    "packageName": "com.ibcs.hrm",
+    "packageFolder": "com/ibcs/hrm",
+    "serverPort": "3004",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2JmN2E1ZjJlZTIzZjdhYjI5NTk2NTg5MTk4Njg2MGVkNzlmOWY2NjE4ZDliN2MzZmNhNDE0NWY0MmM2MzJkNWI4YjgzZWQ3OWFhMWM3NmYyMmZmMDJjOTk2OWE5ZjM0MGQ3NDdjNzQ3NDk1YzA2OTNiNWJjZWE4OTM0YzQzNTQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1609651688808,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
